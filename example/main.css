@@ -1,0 +1,253 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto");
+::-webkit-scrollbar {
+  width: 18px; }
+
+::-webkit-scrollbar-track {
+  background-color: #000020; }
+
+::-webkit-scrollbar-thumb {
+  background-color: inherit; }
+
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px; }
+
+aside {
+  display: flex;
+  background-color: #131722;
+  width: 300px;
+  min-height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  opacity: 0.9;
+  z-index: 2;
+  transition: .5s; }
+  aside section {
+    height: calc(100% - 70px);
+    width: 100%;
+    overflow: auto;
+    position: absolute; }
+  aside > div:nth-child(2) {
+    width: calc(100% - 35px);
+    position: relative; }
+    aside > div:nth-child(2) > div:nth-child(1) {
+      height: 70px;
+      background-color: #131722;
+      text-align: center; }
+      aside > div:nth-child(2) > div:nth-child(1) i {
+        display: block;
+        float: right;
+        margin: 27px 0 0;
+        color: #125999;
+        font-size: 27px;
+        cursor: pointer; }
+      aside > div:nth-child(2) > div:nth-child(1) p {
+        margin: 0;
+        padding-top: calc(52px / 2);
+        color: #44537a;
+        font-size: 18px; }
+
+footer {
+  width: 100%;
+  background-color: #000010;
+  height: 60px;
+  position: fixed;
+  bottom: 0; }
+
+#menuBar {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  height: calc(100% - 70px);
+  overflow-x: hidden;
+  overflow-y: auto;
+  position: absolute; }
+  #menuBar li {
+    margin: 0;
+    width: 100%; }
+    #menuBar li a {
+      text-decoration: none;
+      color: #181e2c;
+      width: calc(100% - 18px);
+      display: table;
+      padding: 20px 0 20px 15px;
+      border-left: 3px solid #131722; }
+      #menuBar li a i:nth-child(1) {
+        color: #FFF;
+        text-align: center;
+        margin: 0 10px 0 0;
+        font-size: 16px;
+        min-width: 16px;
+        max-width: 16px;
+        padding: 10px;
+        border-radius: calc(36px / 2);
+        background-color: #125999;
+        float: left; }
+      #menuBar li a span:nth-child(2) {
+        display: block;
+        width: calc(100% - 64px);
+        color: #4a5984;
+        float: left;
+        padding-top: calc(16px / 2); }
+      #menuBar li a:focus {
+        border-color: #104e87;
+        transition: 0.5s;
+        background-color: #0a0c12 !important; }
+        #menuBar li a:focus > span:nth-child(2) {
+          color: #202639 !important; }
+    #menuBar li:hover a {
+      border-color: #125999;
+      background-color: #22293c; }
+      #menuBar li:hover a > span:nth-child(2) {
+        color: #4a5984; }
+
+.compactMenu {
+  width: 56px;
+  border-right: solid 5px #181e2c;
+  transition: .5s; }
+  .compactMenu ::-webkit-scrollbar {
+    width: 2px !important; }
+  .compactMenu > div:nth-child(1) {
+    display: none; }
+  .compactMenu > div:nth-child(2) {
+    width: 100%;
+    border: none; }
+    .compactMenu > div:nth-child(2) > div:nth-child(1) p {
+      display: none; }
+    .compactMenu > div:nth-child(2) > div:nth-child(1) i {
+      display: block;
+      margin: 27px 14px 0 0;
+      color: #125999;
+      font-size: 27px; }
+    .compactMenu > div:nth-child(2) #menuBar a {
+      padding: 20px 10px;
+      width: 100%; }
+      .compactMenu > div:nth-child(2) #menuBar a i {
+        margin: 0; }
+      .compactMenu > div:nth-child(2) #menuBar a span {
+        display: none; }
+
+#container {
+  background-image: #000010;
+  background-image: -webkit-linear-gradient(bottom, #00000b, #000010);
+  background-image: -o-linear-gradient(bottom, #00000b, #000010);
+  background-image: -moz-linear-gradient(bottom, #00000b, #000010);
+  background-image: linear-gradient(to bottom, #00000b, #000010);
+  width: 100%;
+  min-height: calc(100% - 70px);
+  padding: 0 0 70px 60px;
+  display: block; }
+  #container nav {
+    width: 100%;
+    background-color: #000015;
+    height: 60px;
+    border-bottom: solid 1px #00001b; }
+  #container article {
+    margin: 10px;
+    display: table;
+    float: left; }
+
+#stock_container {
+  width: 400px;
+  float: right; }
+
+.stock_search_form {
+  float: left; }
+
+.autocomplete {
+  margin: 10px 0;
+  position: relative;
+  display: flex;
+  float: left;
+  width: 300px; }
+
+input[type=text] {
+  border: 1px solid transparent;
+  background-color: #f1f1f1;
+  display: block;
+  width: 80%;
+  flex: 1;
+  padding: 10px;
+  font-size: 16px; }
+
+.add_stock {
+  max-width: 20%;
+  color: #fff;
+  background-color: DodgerBlue;
+  border: 1px solid dodgerblue;
+  flex: 1;
+  display: block;
+  padding: 10px 0px;
+  text-align: center;
+  font-weight: bolder;
+  font-size: 23px;
+  cursor: pointer; }
+
+.collection_stock > div {
+  clear: both; }
+
+.autocomplete-items {
+  height: 300px;
+  overflow: auto;
+  position: absolute;
+  border-bottom: none;
+  border-top: none;
+  z-index: 99;
+  /*position the autocomplete items to be the same width as the container:*/
+  top: 100%;
+  left: 0;
+  right: 0; }
+
+.autocomplete-items div {
+  padding: 10px;
+  cursor: pointer;
+  background-color: #fff;
+  border-bottom: 1px solid #d4d4d4; }
+
+/*when hovering an item:*/
+.autocomplete-items div:hover {
+  background-color: #e9e9e9; }
+
+/*when navigating through the items using the arrow keys:*/
+.autocomplete-active {
+  background-color: DodgerBlue !important;
+  color: #ffffff; }
+
+#add_stock_collection {
+  display: block;
+  float: left;
+  background: #104e87;
+  color: #FFF;
+  font-size: 46px;
+  margin: 10px 0;
+  border-radius: 50%;
+  padding: 8px 22px;
+  text-decoration: none;
+  text-align: center;
+  font-family: sans-serif; }
+
+.tradingview-widget-container {
+  margin: 5px 0; }
+
+.tv-feed-widget__head {
+  display: none; }
+
+@media screen and (max-width: 550px) {
+  .compactMenu {
+    width: 40px !important; }
+    .compactMenu > div:nth-child(2) > div:nth-child(1) i {
+      margin: 27px auto !important; }
+    .compactMenu > div:nth-child(2) #menuBar {
+      height: calc(100% - 70px); }
+      .compactMenu > div:nth-child(2) #menuBar a {
+        padding: 10px 5px; }
+        .compactMenu > div:nth-child(2) #menuBar a :nth-child(1) {
+          width: 16px;
+          padding: 5px; }
+  #menuBar {
+    height: calc(70% - 70px); }
+    #menuBar li a {
+      padding: 10px 0 10px 15px; } }

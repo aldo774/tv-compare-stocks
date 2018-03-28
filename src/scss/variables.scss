@@ -1,0 +1,64 @@
+// Menu Variables
+$menuColor: #131722;
+$secondMenuColor: #125999;
+$awesomeColor: #FFF;
+$defaultFontSize: 14px;
+$menuBreadcrumbs: 35px;
+$leftBorderMenu: 3px;
+$spaceBetweenMenu: 15px;
+$menuWidthLink: 16px;
+$menuWidthSecondElem: calc(100% - #{$menuWidthLink * 4});
+$paddingSecondElem: 10px;
+$compactPaddingMenu: 10px;
+$heightMenuTitle: 70px;
+$defaultHeightTitle: 18px;
+
+// Container Variables
+$containerColor: #000001;
+//$containerColor: #131722;
+$heightContainerNav: 60px;
+$marginContainer: 30px;
+$divHeightAvatarList: 40px;
+$marginTopTaleBox: 40px;
+$paddingAvatarBox: 5px;
+$avatarLenght: 35px;
+@mixin spanAvatar{
+  span{display: inline-block; overflow: hidden; border-radius: #{$avatarLenght / 2};
+    img{max-width: $avatarLenght; max-height: $avatarLenght;}
+    +span{margin-left: 5px;}
+  }
+}
+
+@function colorUsed($color, $ifScale, $elseScale:null, $isInverse:null){
+  @if (((not $isInverse) and (lightness($color) < 50)) or ($isInverse and (lightness($color) > 50))){
+    @return lighten($color, $ifScale);
+  }
+  @else{
+    @if(not $elseScale){
+      @return darken($color, $ifScale);
+    }
+    @else{
+      @return darken($color, $elseScale);
+    }
+  }
+}
+
+@mixin gradient($cor1, $cor2, $property, $direction){
+  #{$property}: $cor2;
+  #{$property}: -webkit-linear-gradient($direction, $cor1, $cor2);
+  #{$property}: -o-linear-gradient($direction, $cor1, $cor2);
+  #{$property}: -moz-linear-gradient($direction, $cor1, $cor2);
+  #{$property}: linear-gradient(to $direction, $cor1, $cor2);
+}
+
+@mixin awesomeIcon {
+  color: $awesomeColor;
+  text-align: center;
+  margin: 0 10px 0 0;
+  font-size: $menuWidthLink;
+  min-width: $menuWidthLink;
+  max-width: $menuWidthLink;
+  padding: $paddingSecondElem;
+  border-radius: calc(#{2 * $paddingSecondElem + $menuWidthLink} / 2);
+  background-color: $secondMenuColor;
+}

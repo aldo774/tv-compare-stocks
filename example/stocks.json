@@ -1,0 +1,4860 @@
+{
+    "data": [
+        {
+            "Code": "AALR3",
+            "Name": "Centro de Imagem Diagn\u00f3sticos S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "AAPL34",
+            "Name": "Apple Inc",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ABCB4",
+            "Name": "Banco ABC Brasil S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ABCP11",
+            "Name": "FII ABC Plaza Shopping Fund",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ABEV3",
+            "Name": "Ambev S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ADHM3",
+            "Name": "Advanced Digital Health Medicina Preventiva S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "AFLT3",
+            "Name": "Afluente Geracao de Energia Eletrica SA",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "AGCX11",
+            "Name": "FDO INV IMOB RIO BRAVO RENDA VAREJO - FII",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "AGRO3",
+            "Name": "BrasilAgro - Companhia Brasileira de Propriedades Agricolas",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "AHEB5",
+            "Name": "Sao Paulo Turismo S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "AHEB6",
+            "Name": "S\u00e3o Paulo Turismo S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ALMI11",
+            "Name": "FDO INV IMOB - FII TORRE ALMIRANTE",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "ALPA3",
+            "Name": "Alpargatas S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ALPA4",
+            "Name": "Alpargatas S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ALSO3",
+            "Name": "ALSO3",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ALUP11",
+            "Name": "Alupar Investimento S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ALUP3",
+            "Name": "Alupar Investimento S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ALUP4",
+            "Name": "Alupar Investimento S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ALZR11",
+            "Name": "ALIANZA TRUST RENDA IMOBILIARIA FDO INV IMOB",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "AMAR3",
+            "Name": "Marisa Lojas S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "AMGN34",
+            "Name": "Amgen Inc",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "AMZO34",
+            "Name": "Amazon.com, Inc",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ANIM3",
+            "Name": "Anima Holding S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "APER3",
+            "Name": "Alper Consultoria e Corretora de Seguros S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ARZZ3",
+            "Name": "Arezzo Industria e Comercio S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ATOM3",
+            "Name": "Atom Empreendimentos e Participacoes S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "AVON34",
+            "Name": "Avon Products Inc",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "AXPB34",
+            "Name": "American Express Company",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "AZEV3",
+            "Name": "Azevedo & Travassos SA",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "AZEV4",
+            "Name": "Azevedo & Travassos S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "AZUL4",
+            "Name": "Azul S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "B3SA3",
+            "Name": "B3 S.A. - Brasil, Bolsa, Balcao",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BAHI3",
+            "Name": "Bahema Educacao S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BALM3",
+            "Name": "Baumer S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BALM4",
+            "Name": "Baumer S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BARI11",
+            "Name": "BARI11",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BAUH4",
+            "Name": "Excelsior Alimentos S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BAZA3",
+            "Name": "Banco da Amazonia S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BBAS3",
+            "Name": "Banco do Brasil S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BBDC3",
+            "Name": "Banco Bradesco S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BBDC4",
+            "Name": "Banco Bradesco S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BBFI11B",
+            "Name": "BBFI11B",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BBPO11",
+            "Name": "BB PROGRESSIVO II FDO INV IMOB - FII",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "BBRC11",
+            "Name": "BB RENDA CORPORATIVA FDO INV IMOB - FII",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "BBRK3",
+            "Name": "Brasil Brokers Participacoes S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BBSD11",
+            "Name": "BB ETF S&amp;P Dividendos Brasil",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "ETF"
+        },
+        {
+            "Code": "BBSE3",
+            "Name": "BB Seguridade Participacoes S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BBVJ11",
+            "Name": "Fundo de Investimento Imobiliario BB Votorantim JHSF Cidade Jardim Continental Tower",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BCFF11",
+            "Name": "FDO INV IMOB - FII BTG PACTUAL FUNDO DE FUNDOS",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "BCIA11",
+            "Name": "BRADESCO CARTEIRA IMOBILI\u00c1RIA ATIVA - FII",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "BCRI11",
+            "Name": "BANESTES RECEB\u00cdVEIS IMOBILI\u00c1RIOS FDO INV IMOB FII",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "BDLL4",
+            "Name": "Bardella S.A. Industrias Mecanicas",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BEEF11",
+            "Name": "Minerva SA",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BEEF3",
+            "Name": "Minerva S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BEES3",
+            "Name": "Banestes S.A - Banco do Estado do Espirito Santo",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BEES4",
+            "Name": "Banestes S.A - Banco do Estado do Espirito Santo",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BERK34",
+            "Name": "BERK34",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BGIP3",
+            "Name": "Banco do Estado de Sergipe S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BGIP4",
+            "Name": "Banco do Estado de Sergipe S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BIDI11",
+            "Name": "Banco Inter SA",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BIDI3",
+            "Name": "Banco Inter S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BIDI4",
+            "Name": "Banco Inter S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BIOM3",
+            "Name": "Biomm S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BKBR3",
+            "Name": "BK Brasil Operacao e Assessoria a Restaurantes S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BMEB3",
+            "Name": "Banco Mercantil do Brasil S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BMEB4",
+            "Name": "Banco Mercantil do Brasil S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BMIN4",
+            "Name": "Banco Mercantil de Investimentos S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BMKS3",
+            "Name": "Bicicletas Monark S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BMLC11B",
+            "Name": "BMLC11B",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BNBR3",
+            "Name": "Banco do Nordeste do Brasil S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BNFS11",
+            "Name": "BANRISUL NOVAS FRONTEIRAS FDO INV IMOB - FII",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "BOAC34",
+            "Name": "Bank of America Corporation",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BOBR4",
+            "Name": "Bombril S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BOVA11",
+            "Name": "iShares Ibovespa Fundo de \u00cdndice ETF",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "ETF"
+        },
+        {
+            "Code": "BOVV11",
+            "Name": "It Now Ibovespa Fundo De \u00cdndice",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BPAC11",
+            "Name": "Banco BTG Pactual S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BPAC3",
+            "Name": "Banco BTG Pactual S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BPAC5",
+            "Name": "Banco BTG Pactual S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BPAN4",
+            "Name": "Banco Pan S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BPFF11",
+            "Name": "FDO INV IMOB BRASIL PLURAL ABSOLUTO FDO DE FUNDOS",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "BRAP3",
+            "Name": "Bradespar S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BRAP4",
+            "Name": "Bradespar S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BRCR11",
+            "Name": "Fundo de Investimento Imobiliario - FII BTG Pactual Corporate Office Fund",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BRDT3",
+            "Name": "Petrobras Distribuidora S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BRFS3",
+            "Name": "BRF S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BRGE11",
+            "Name": "Consorcio Alfa de Administracao S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BRGE3",
+            "Name": "Consorcio Alfa de Administracao S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BRGE5",
+            "Name": "Consorcio Alfa de Administracao S.A.",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BRGE6",
+            "Name": "Consorcio Alfa de Administracao S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BRGE7",
+            "Name": "Consorcio Alfa de Administracao S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BRGE8",
+            "Name": "Consorcio Alfa de Administracao S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BRIV3",
+            "Name": "Banco Alfa de Investimento S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BRIV4",
+            "Name": "Banco Alfa de Investimento S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BRKM3",
+            "Name": "Braskem S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BRKM5",
+            "Name": "Braskem S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BRKM6",
+            "Name": "Braskem S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BRML3",
+            "Name": "BR Malls Participacoes S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BRPR3",
+            "Name": "BR Properties S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BRSR3",
+            "Name": "Banco do Estado do Rio Grande do Sul S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BRSR5",
+            "Name": "Banco do Estado do Rio Grande do Sul S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BRSR6",
+            "Name": "Banco do Estado do Rio Grande do Sul S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BSEV3",
+            "Name": "Biosev S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BTCR11",
+            "Name": "FDO INV IMOB BTG PACTUAL CREDITO IMOBILIARIO",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "BTOW3",
+            "Name": "B2W - Companhia Digital",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BTTL3",
+            "Name": "Battistella Administracao e Participacoes S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BZLI11",
+            "Name": "BRAZIL REALTY FDO INV IMOB",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "CALI4",
+            "Name": "Construtora Adolpho Lindenberg S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CAMB4",
+            "Name": "Cambuci S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CAML3",
+            "Name": "Camil Alimentos S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CARD3",
+            "Name": "CSU Cardsystem S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CARE11",
+            "Name": "BRAZILIAN GRAVEYARD DEATH CARE FDO INV IMOB - FII",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "CBOP11",
+            "Name": "CASTELLO BRANCO OFFICE PARK FDO INV IMOB - FII",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "CCPR3",
+            "Name": "Cyrela Commercial Properties S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CCRO3",
+            "Name": "CCR S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CCXC3",
+            "Name": "CCX Carvao da Colombia S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CEAB3",
+            "Name": "C&A Modas Ltda",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CEBR3",
+            "Name": "Companhia Energ\u00e9tica de Bras\u00edlia - CEB",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CEBR5",
+            "Name": "Companhia Energetica de Brasilia - CEB",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CEBR6",
+            "Name": "Companhia Energetica de Brasilia - CEB",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CEDO4",
+            "Name": "Companhia de Fiacao e Tecidos Cedro e Cachoeira S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CEEB3",
+            "Name": "Companhiade Eletricidade do Estado da Bahia - COELBA",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CEEB5",
+            "Name": "Companhiade Eletricidade do Estado da Bahia - COELBA",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CEED4",
+            "Name": "Companhia Estadual de Distribuicao de Energia Eletrica",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CELP3",
+            "Name": "Centrais Eletricas do Para S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CELP5",
+            "Name": "Centrais Eletricas do Para S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CELP6",
+            "Name": "Centrais Eletricas do Para S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CELP7",
+            "Name": "Centrais Eletricas do Para S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CEOC11",
+            "Name": "FDO INV IMOB - FII CEO CYRELA COMMERC. PROPERTIES",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "CEPE5",
+            "Name": "Companhia Energetica de Pernambuco - CELPE",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CEPE6",
+            "Name": "Companhia Energetica de Pernambuco - CELPE",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CESP3",
+            "Name": "CESP - Companhia Energetica de Sao Paulo",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CESP5",
+            "Name": "CESP - Companhia Energetica de Sao Paulo",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CESP6",
+            "Name": "CESP - Companhia Energetica de Sao Paulo",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CGAS3",
+            "Name": "Companhia de Gas de Sao Paulo - COMGAS",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CGAS5",
+            "Name": "Companhia de Gas de Sao Paulo - COMGAS",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CGRA3",
+            "Name": "Grazziotin S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CGRA4",
+            "Name": "Grazziotin S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CIEL3",
+            "Name": "Cielo S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CLSC4",
+            "Name": "Centrais Eletricas de Santa Catarina S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CMCS34",
+            "Name": "Comcast Corporation",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CMIG3",
+            "Name": "Companhia Energetica de Minas Gerais",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CMIG4",
+            "Name": "Companhia Energetica de Minas Gerais",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CNES11",
+            "Name": "FDO INV IMOB - FII CENESP",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "CNTO3",
+            "Name": "Grupo SBF S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "COCE5",
+            "Name": "Companhia Energetica do Ceara - Coelce",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "COGN3",
+            "Name": "Kroton Educacional S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "COWC34",
+            "Name": "COWC34",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CPFE3",
+            "Name": "CPFL Energia S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CPLE3",
+            "Name": "Companhia Paranaense de Energia - COPEL",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CPLE6",
+            "Name": "Companhia Paranaense de Energia - COPEL",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CPRE3",
+            "Name": "CPFL Energias Renovaveis S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CPTS11B",
+            "Name": "CPTS11B",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CRDE3",
+            "Name": "CR2 Empreendimentos Imobiliarios S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CRFB3",
+            "Name": "Atacadao S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CRFF11",
+            "Name": "Caixa Rio Bravo Fundo De Fundos De Investimento Imobiliario II-Cotas",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CRIV3",
+            "Name": "Financeira Alfa S.A. - Credito, Financiamento e Investimentos",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CRIV4",
+            "Name": "Financeira Alfa S.A. - Credito, Financiamento e Investimentos",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CRPG3",
+            "Name": "Cristal Pigmentos do Brasil S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CRPG5",
+            "Name": "Cristal Pigmentos do Brasil S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CRPG6",
+            "Name": "Cristal Pigmentos do Brasil SA",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CSAB4",
+            "Name": "Companhia de Seguros Alianca da Bahia",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CSAN3",
+            "Name": "Cosan S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CSMG3",
+            "Name": "Companhia de Saneamento de Minas Gerais",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CSNA3",
+            "Name": "Companhia Siderurgica Nacional",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CSRN3",
+            "Name": "Companhia Energetica do Rio Grande do Norte - COSERN",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CSRN5",
+            "Name": "Companhia Energetica do Rio Grande do Norte - COSERN",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CSRN6",
+            "Name": "Companhia Energetica do Rio Grande do Norte - COSERN",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CTKA4",
+            "Name": "Karsten S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CTNM3",
+            "Name": "Companhia de Tecidos Norte de Minas",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CTNM4",
+            "Name": "Companhia de Tecidos Norte de Minas",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CTSA3",
+            "Name": "Companhia Tecidos Santanense Ltda",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CTSA4",
+            "Name": "Companhia Tecidos Santanense Ltda",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CTXT11",
+            "Name": "FDO INV IMOB CENTRO TEXTIL INTERNACIONAL",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "CVCB3",
+            "Name": "CVC Brasil Operadora e Agencia de Viagens S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CXCE11B",
+            "Name": "CXCE11B",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CXRI11",
+            "Name": "CAIXA RIO BRAVO FUNDO DE FDO INV IMOB - FII",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "CXTL11",
+            "Name": "FDO INV IMOB CAIXA TRX LOG\u00cdSTICA RENDA",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "CYRE3",
+            "Name": "Cyrela Brazil Realty S.A. Empreendimentos e Participacoes",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "DAMT11B",
+            "Name": "DAMT11B",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "DASA3",
+            "Name": "Diagnosticos da America S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "DIRR3",
+            "Name": "Direcional Engenharia S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "DISB34",
+            "Name": "The Walt Disney Company",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "DMAC11",
+            "Name": "MAC FDO INV IMOB",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "DMMO11",
+            "Name": "DMMO11",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "DMMO3",
+            "Name": "Dommo Energia S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "DOHL4",
+            "Name": "Dohler S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "DOMC11",
+            "Name": "REAG RENDA IMOBILIARIA FDO INV IMOB - FII",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "DTCY3",
+            "Name": "DTCOM - Direct to Company S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "DTEX3",
+            "Name": "Duratex S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "EALT3",
+            "Name": "Electro Aco Altona SA",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "EALT4",
+            "Name": "Electro Aco Altona S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ECOO11",
+            "Name": "iShares \u00cdndice Carbono Eficiente (ICO2) Brasil Fundo de \u00cdndice ETF",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "ETF"
+        },
+        {
+            "Code": "ECOR3",
+            "Name": "EcoRodovias Infraestrutura e Logistica S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ECPR3",
+            "Name": "Empresa Nacional de Comercio, Redito e Participacoes S.A. - Encorpar",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "EDFO11B",
+            "Name": "EDFO11B",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "EDGA11",
+            "Name": "FDO INV IMOB - FII EDIF\u00cdCIO GALERIA",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "EEEL3",
+            "Name": "Companhia Estadual de Geracao e Transmissao de Energia Eletrica - CEEE-GT",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "EEEL4",
+            "Name": "Companhia Estadual de Geracao e Transmissao de Energia Eletrica - CEEE-GT",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "EGIE3",
+            "Name": "Engie Brasil Energia S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "EKTR4",
+            "Name": "Elektro Redes S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ELEK4",
+            "Name": "Elekeiroz S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ELET3",
+            "Name": "Centrais Eletricas Brasileiras S.A. - Eletrobras",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ELET5",
+            "Name": "Centrais Eletricas Brasileiras S.A. - Eletrobras",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ELET6",
+            "Name": "Centrais Eletricas Brasileiras S.A. - Eletrobras",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ELPL3",
+            "Name": "Eletropaulo Metropolitana Eletricidade de Sao Paulo S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "EMAE4",
+            "Name": "Empresa Metropolitana de Aguas e Energia S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "EMBR3",
+            "Name": "Embraer S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ENAT3",
+            "Name": "Enauta Participacoes S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ENBR3",
+            "Name": "EDP - Energias do Brasil S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ENEV3",
+            "Name": "Eneva S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ENGI11",
+            "Name": "Energisa S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ENGI3",
+            "Name": "Energisa S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ENGI4",
+            "Name": "Energisa S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ENMT3",
+            "Name": "Energisa Mato Grosso - Distribuidora de Energia S\/A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ENMT4",
+            "Name": "Energisa Mato Grosso - Distribuidora de Energia S\/A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "EQTL3",
+            "Name": "Equatorial Energia S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ESTR4",
+            "Name": "Manufatura de Brinquedos Estrela S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ESUD11",
+            "Name": "Fundo de Investimento em Participacoes em Infraestrutura BB Votorantim Energia Sustentavel II",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ETER3",
+            "Name": "Eternit S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "EUCA3",
+            "Name": "Eucatex S.A. Industria e Comercio",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "EUCA4",
+            "Name": "Eucatex S.A. Industria e Comercio",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "EURO11",
+            "Name": "FDO INV IMOB EUROPAR",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "EVEN3",
+            "Name": "Even Construtora e Incorporadora S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "EXXO34",
+            "Name": "Exxon Mobil Corporation",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "EZTC3",
+            "Name": "EZTEC Empreendimentos e Participacoes S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "FAED11",
+            "Name": "FDO INV IMOB - FII ANHANGUERA EDUCACIONAL",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "FAMB11B",
+            "Name": "FAMB11B",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "FDES11",
+            "Name": "Fundo de Recuperacao Economica",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "FDMO34",
+            "Name": "Ford Motor Company",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "FESA3",
+            "Name": "Cia de Ferro Ligas da Bahia - FERBASA",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "FESA4",
+            "Name": "Cia de Ferro Ligas da Bahia - FERBASA",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "FEXC11",
+            "Name": "FDO INV IMOB - FII BTG PACTUAL FUNDO DE CRI",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "FFCI11",
+            "Name": "FDO INV IMOB RIO BRAVO RENDA CORPORATIVA",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "FHER3",
+            "Name": "Fertilizantes Heringer S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "FIGS11",
+            "Name": "FDO INV IMOB GENERAL SHOPPING ATIVO E RENDA - FII",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "FIIB11",
+            "Name": "FDO INV IMOB INDUSTRIAL DO BRASIL",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "FIIP11B",
+            "Name": "FIIP11B",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "FIND11",
+            "Name": "It Now IFNC Index Fund - FIND11 ETF",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "ETF"
+        },
+        {
+            "Code": "FIVN11",
+            "Name": "FDO INV IMOB VIDA NOVA - FII",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "FIXX11",
+            "Name": "Fator IFIX Fundo Investimento Imobiliario - FII - Cotas Fund",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "FJTA13",
+            "Name": "FJTA13",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "FJTA15",
+            "Name": "FORJA TAURUSBNS PRE N2",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "FJTA17",
+            "Name": "FJTA17",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "FJTA3",
+            "Name": "Taurus Armas S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "FJTA4",
+            "Name": "Taurus Armas S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "FLMA11",
+            "Name": "FDO INV IMOB CONTINENTAL SQUARE FARIA LIMA",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "FLRP11",
+            "Name": "FDO INV IMOB - FII FLORIPA SHOPPING",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "FLRY3",
+            "Name": "Fleury S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "FMOF11",
+            "Name": "FDO INV IMOB MEMORIAL OFFICE",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "FNAM11",
+            "Name": "Fundo de Investimento Amazonia - FINAM",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "FNOR11",
+            "Name": "Finor -Ci Fund",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "FOFT11",
+            "Name": "HEDGE TOP FOFII 2 FDO INV IMOB - FII",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "FPAB11",
+            "Name": "FDO INV IMOB PROJETO \u00c1GUA BRANCA",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "FPOR11",
+            "Name": "Porto Sudeste Royalties Fundo Investimento Participacoes Infraestrutura Fund",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "FRAS3",
+            "Name": "Fras-le S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "FRIO3",
+            "Name": "Metalfrio Solutions S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "FRTA3",
+            "Name": "Pomifrutas S\/A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "FSPE11",
+            "Name": "Fiset Pesca Fiset Fspe",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "FSRF11",
+            "Name": "FSRF11",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "FSTU11",
+            "Name": "Fiset Tur",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "FVBI11",
+            "Name": "FDO INV IMOB VBI FL 4440 - FII",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "FVPQ11",
+            "Name": "FII V PARQUE-CI",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "GBIO33",
+            "Name": "Biotoscana Investments SA",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "GEPA4",
+            "Name": "Rio Paranapanema Energia S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "GFSA3",
+            "Name": "Gafisa S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "GGBR3",
+            "Name": "Gerdau S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "GGBR4",
+            "Name": "Gerdau S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "GGRC11",
+            "Name": "GGR COVEPI RENDA FDO INV IMOB",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "GNDI3",
+            "Name": "Notre Dame Intermedica Participacoes S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "GOAU3",
+            "Name": "Metalurgica Gerdau S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "GOAU4",
+            "Name": "Metalurgica Gerdau S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "GOGL34",
+            "Name": "GOGL34",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "GOLL4",
+            "Name": "Gol Linhas Aereas Inteligentes S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "GOVE11",
+            "Name": "It Now IGCT Index Fund",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "ETF"
+        },
+        {
+            "Code": "GPCP3",
+            "Name": "GPC Participacoes S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "GPIV33",
+            "Name": "GP Investments, Ltd",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "GPSI34",
+            "Name": "GPSI34",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "GRLV11",
+            "Name": "CSHG GR LOUVEIRA FDO DE INV IMOB - FII",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "GRND3",
+            "Name": "Grendene S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "GSFI11",
+            "Name": "General Shopping E Outlets Do Brasil Fundo De Investimento Imobiliario FII",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "GSHP3",
+            "Name": "General Shopping e Outlets do Brasil S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "GTWR11",
+            "Name": "GTWR11",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "GUAR3",
+            "Name": "Guararapes Confeccoes S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "HABT11",
+            "Name": "HABT11",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "HAGA3",
+            "Name": "HAGA S\/A Industria e Comercio",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "HAGA4",
+            "Name": "HAGA S\/A Industria e Comercio",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "HAPV3",
+            "Name": "Hapvida Participacoes e Investimentos S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "HBOR3",
+            "Name": "Helbor Empreendimentos S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "HBTS5",
+            "Name": "Companhia Habitasul de Participacoes",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "HCRI11",
+            "Name": "FDO INV IMOB - FII HOSPITAL DA CRIAN\u00c7A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "HCTR11",
+            "Name": "HCTR11",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "HETA4",
+            "Name": "Hercules S.A - Fabrica de Talheres",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "HFOF11",
+            "Name": "HEDGE TOP FOFII 3 FDO INV IMOB",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "HGBS11",
+            "Name": "HEDGE Brasil Shopping Fundo de Investimento Imobiliario",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "HGCR11",
+            "Name": "CSHG RECEB\u00cdVEIS IMOBILI\u00c1RIOS FDO INV IMOB - FII",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "HGFF11",
+            "Name": "HGFF11",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "HGLG11",
+            "Name": "CSHG LOG\u00cdSTICA FDO INV IMOB - FII",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "HGPO11",
+            "Name": "Cshg Jhsf Prime Offices Fundo De Investimento Imobiliario",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "HGRE11",
+            "Name": "CSHG Real Estate - Fundo de Investimento Imobiliario - FII",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "HGRU11",
+            "Name": "CSHG RENDA URBANA - FDO INV IMOB - FII",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "HGTX3",
+            "Name": "Cia. Hering",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "HMOC11",
+            "Name": "Fundo de Investimento Imobiliario GWI Renda Imobiliaria - FII",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "HOME34",
+            "Name": "The Home Depot Inc",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "HOOT4",
+            "Name": "Hoteis Othon S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "HSML11",
+            "Name": "HSML11",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "HTMX11",
+            "Name": "FDO INV IMOB - FII HOTEL MAXINVEST",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "HUSC11",
+            "Name": "FDO INV IMOB HOSPITAL UNIMED SUL CAPIXABA",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "HYPE3",
+            "Name": "Hypera S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "IBOV11",
+            "Name": "IBOV11",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "IDNT3",
+            "Name": "Ideiasnet S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "IDVL3",
+            "Name": "Banco Indusval S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "IDVL4",
+            "Name": "Banco Indusval S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "IGTA3",
+            "Name": "Iguatemi Empresa de Shopping Centers S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "INEP3",
+            "Name": "Inepar S.A. Industria e Construcoes",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "INEP4",
+            "Name": "Inepar S.A. Industria e Construcoes",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "IRBR3",
+            "Name": "IRB-Brasil Resseguros S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "IRDM11",
+            "Name": "FII IRIDIUM RECEB\u00cdVEIS IMOBILI\u00c1RIOS",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "ISUS11",
+            "Name": "It Now ISE Index Fund - ISUS11 ETF",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "ETF"
+        },
+        {
+            "Code": "ITLC34",
+            "Name": "Intel Corporation",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ITSA3",
+            "Name": "Itausa - Investimentos Itau S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ITSA4",
+            "Name": "Itausa - Investimentos Itau S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ITUB3",
+            "Name": "Itau Unibanco Holding S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ITUB4",
+            "Name": "Itau Unibanco Holding S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "IVVB11",
+            "Name": "iShares S&P 500 Fundo de Investimento - Investimento No Exterior",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "JBDU3",
+            "Name": "Industrias J.B. Duarte S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "JBDU4",
+            "Name": "Industrias J.B. Duarte S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "JBSS3",
+            "Name": "JBS S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "JFEN3",
+            "Name": "Joao Fortes Engenharia SA",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "JHSF3",
+            "Name": "JHSF Participacoes S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "JNJB34",
+            "Name": "Johnson & Johnson",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "JOPA3",
+            "Name": "JOSAPAR Joaquim Oliveira S.A. Participacoes",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "JOPA4",
+            "Name": "JOSAPAR Joaquim Oliveira S.A. Participacoes",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "JPMC34",
+            "Name": "JPMorgan Chase & Co",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "JPSA3",
+            "Name": "Jereissati Participacoes S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "JRDM11",
+            "Name": "FI Imobiliario-FII Jardim Sul",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "JSLG3",
+            "Name": "JSL S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "JSRE11",
+            "Name": "JS Real Estate multigestao - FII fund",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "KEPL3",
+            "Name": "Kepler Weber S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "KHCB34",
+            "Name": "KHCB34",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "KLBN11",
+            "Name": "Klabin SA",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "KLBN3",
+            "Name": "Klabin SA",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "KLBN4",
+            "Name": "Klabin S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "KNCR11",
+            "Name": "Kinea Rendimentos Imobiliarios Fundo de Investimento Imobiliario - FII",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "KNHY11",
+            "Name": "KINEA HIGH YIELD CRI FDO INV IMOB - FII",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "KNIP11",
+            "Name": "KINEA \u00cdNDICES DE PRE\u00c7OS FDO INV IMOB - FII",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "KNRE11",
+            "Name": "KINEA II REAL ESTATE EQUITY FDO INV IMOB",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "KNRI11",
+            "Name": "KINEA RENDA IMOBILI\u00c1RIA FDO INV IMOB - FII",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "KROT3",
+            "Name": "Kroton Educacional S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "LAME3",
+            "Name": "Lojas Americanas S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "LAME4",
+            "Name": "Lojas Americanas S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "LCAM3",
+            "Name": "Unidas - Todos os direitos reservados",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "LEVE3",
+            "Name": "Mahle Metal Leve S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "LIGT3",
+            "Name": "Light S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "LILY34",
+            "Name": "Eli Lilly and Company",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "LINX3",
+            "Name": "Linx S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "LIPR3",
+            "Name": "Eletrobras Participacoes S.A. - Eletropar",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "LIQO3",
+            "Name": "Liq Participacoes S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "LLIS3",
+            "Name": "Restoque Comercio e Confeccoes de Roupas S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "LMTB34",
+            "Name": "Lockheed Martin Corporation",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "LOGG3",
+            "Name": "LOG Commercial Properties e Participacoes S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "LOGN3",
+            "Name": "Log-In Logistica Intermodal S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "LPSB3",
+            "Name": "LPS Brasil - Consultoria de Imoveis S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "LREN3",
+            "Name": "Lojas Renner S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "LUPA3",
+            "Name": "Lupatech S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "LUXM4",
+            "Name": "Trevisa Investimentos S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "MACY34",
+            "Name": "MACY34",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "MALL11",
+            "Name": "MALLS BRASIL PLURAL FDO INV IMOB",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "MATB11",
+            "Name": "It Now IMAT Index Fund - MATB11 ETF",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "ETF"
+        },
+        {
+            "Code": "MAXR11",
+            "Name": "FDO INV IMOB - FII MAX RETAIL",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "MBRF11",
+            "Name": "FDO INV IMOB MERCANTIL DO BRASIL - FII",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "MCDC34",
+            "Name": "McDonald's Corporation",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "MDIA3",
+            "Name": "M. Dias Branco S.A. Industria e Comercio de Alimentos",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "MEAL3",
+            "Name": "International Meal Company Alimentacao S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "MELI34",
+            "Name": "MELI34",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "MEND5",
+            "Name": "Mendes J\u00fanior Engenharia S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "MEND6",
+            "Name": "Mendes Junior Engenharia S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "MERC4",
+            "Name": "Mercantil do Brasil Financeira S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "MFII11",
+            "Name": "M\u00c9RITO DESENVOLVIMENTO IMOBILI\u00c1RIO I FII - FII",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "MGEL4",
+            "Name": "Mangels Industrial S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "MGFF11",
+            "Name": "FDO INV IMOB MOGNO FUNDO DE FUNDOS",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "MGLU3",
+            "Name": "Magazine Luiza S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "MILS3",
+            "Name": "Mills Estruturas e Servicos de Engenharia S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "MMMC34",
+            "Name": "3M Company",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "MMXM11",
+            "Name": "MMX Mineracao e Metalicos S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "MMXM3",
+            "Name": "MMX Mineracao e Metalicos S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "MNDL3",
+            "Name": "Mundial S.A. - Produtos de Consumo",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "MNPR3",
+            "Name": "Minupar Participacoes S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "MOAR3",
+            "Name": "Monteiro Aranha S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "MOVI3",
+            "Name": "Movida Participacoes S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "MRCK34",
+            "Name": "Merck & Co Inc",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "MRFG3",
+            "Name": "Marfrig Global Foods S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "MRVE3",
+            "Name": "MRV Engenharia e Participacoes S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "MSBR34",
+            "Name": "Morgan Stanley",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "MSCD34",
+            "Name": "MasterCard Inc",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "MSFT34",
+            "Name": "Microsoft Corporation",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "MTIG4",
+            "Name": "Metalgrafica Iguacu S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "MTSA4",
+            "Name": "METISA Metalurgica Timboense S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "MULT3",
+            "Name": "Multiplan Empreendimentos Imobiliarios S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "MWET4",
+            "Name": "Wetzel S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "MXRF11",
+            "Name": "MAXI RENDA FDO INV IMOB - FII",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "MYPK3",
+            "Name": "Iochpe-Maxion S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "NAFG4",
+            "Name": "Nadir Figueiredo Industria e Comercio S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "NATU3",
+            "Name": "Natura Cosmeticos S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "NEOE3",
+            "Name": "Neoenergia S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "NFLX34",
+            "Name": "Netflix, Inc",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "ETF"
+        },
+        {
+            "Code": "NPAR11",
+            "Name": "FDO INV IMOB NESTPAR - FII",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "NSLU11",
+            "Name": "FDO INV IMOB - FII HOSPITAL NOSSA SRA DE LOURDES",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "NUTR3",
+            "Name": "Nutriplant Ind\u00fastria e Com\u00e9rcio S\/A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "NVHO11",
+            "Name": "FDO INV IMOB - FII NOVO HORIZONTE",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "ODPV3",
+            "Name": "Odontoprev S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "OFSA3",
+            "Name": "Ouro Fino Saude Animal Participacoes S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "OIBR3",
+            "Name": "Oi S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "OIBR4",
+            "Name": "Oi S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "OMGE3",
+            "Name": "Omega Geracao S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ONEF11",
+            "Name": "FDO INV IMOB THE ONE",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "OSXB3",
+            "Name": "OSX Brasil S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "OUCY11",
+            "Name": "FUNDO INV IMOB - OURINVEST CYRELA - FII",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "OUJP11",
+            "Name": "OURINVEST JPP FDO INV IMOB - FII",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "OULG11B",
+            "Name": "OULG11B",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "PABY11",
+            "Name": "FDO INV IMOB PANAMBY",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "PARD3",
+            "Name": "Instituto Hermes Pardini S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "PATC11",
+            "Name": "P\u00c1TRIA EDIF\u00cdCIOS CORPORATIVOS FDO INV IMOB - FII",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "PATI3",
+            "Name": "Panatlantica S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "PATI4",
+            "Name": "Panatlantica S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "PCAR4",
+            "Name": "Companhia Brasileira de Distribuicao",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "PDGR3",
+            "Name": "PDG Realty S.A. Empreendimentos e Participacoes",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "PEAB4",
+            "Name": "Companhia de Participacoes Alianca da Bahia",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "PEPB34",
+            "Name": "PEPB34",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "PETR3",
+            "Name": "Petroleo Brasileiro S.A. - Petrobras",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "PETR4",
+            "Name": "Petroleo Brasileiro S.A. - Petrobras",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "PFIZ34",
+            "Name": "Pfizer Inc",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "PFRM3",
+            "Name": "Profarma Distribuidora de Produtos Farmaceuticos S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "PINE4",
+            "Name": "Banco Pine S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "PLAS3",
+            "Name": "Plascar Participacoes Industriais S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "PLRI11",
+            "Name": "POLO FDO INV IMOB - FII RECEB\u00cdVEIS IMOBILI\u00c1RIOS I",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "PMAM3",
+            "Name": "Paranapanema S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "PNVL3",
+            "Name": "Dimed S.A. Distribuidora de Medicamentos",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "PNVL4",
+            "Name": "Dimed S.A. Distribuidora de Medicamentos",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "POMO3",
+            "Name": "Marcopolo S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "POMO4",
+            "Name": "Marcopolo S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "PORD11",
+            "Name": "POLO FDO INV IMOB - RECEB\u00cdVEIS IMOB II - FII",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "POSI3",
+            "Name": "Positivo Tecnologia S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "PPLA11",
+            "Name": "PPLA Participations Ltd",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "PQDP11",
+            "Name": "FDO INV IMOB - FII PARQUE D. PEDRO SHOPPING CENTER",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "PRIO3",
+            "Name": "Petro Rio S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "PRSV11",
+            "Name": "FDO INV IMOB - FII PRESIDENTE VARGAS",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "PSSA3",
+            "Name": "Porto Seguro S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "PSVM11",
+            "Name": "Porto Sudeste do Brasil S.A. VAR INCOME UNDATED ROYALTIES BASED",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "PTBL3",
+            "Name": "PBG S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "PTNT4",
+            "Name": "Pettenati S.A. Industria Textil",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "QUAL3",
+            "Name": "Qualicorp Consultoria e Corretora de Seguros S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "RADL3",
+            "Name": "Raia Drogasil S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "RAIL3",
+            "Name": "Rumo S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "RANI3",
+            "Name": "Celulose Irani S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "RANI4",
+            "Name": "Celulose Irani S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "RAPT3",
+            "Name": "Randon S.A. Implementos e Participacoes",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "RAPT4",
+            "Name": "Randon S.A. Implementos e Participacoes",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "RBBV11",
+            "Name": "JHSF RIO BRAVO FAZENDA BOA VISTA CAP. PROT. - FII",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "RBCB11",
+            "Name": "RIO BRAVO CR\u00c9DITO IMOBILI\u00c1RIO I FDO INV IMOB",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "RBDS11",
+            "Name": "RB CAPITAL DESENV. RESID. II FDO INV IMOB - FII",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "RBED11",
+            "Name": "Aesapar Fundo de Investimento Imobili\u00e1rio - FII",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "RBFF11",
+            "Name": "RBFF11",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "RBGS11",
+            "Name": "RB CAPITAL GENERAL SHOP SULACAP FDO INV IMOB - FII",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "RBRD11",
+            "Name": "RB CAPITAL RENDA II FDO INV IMOB - FII",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "RBRF11",
+            "Name": "FDO INV IMOB RBR ALPHA FUNDOS DE FUNDOS",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "RBRP11",
+            "Name": "FDO INV IMOB RBR PROPERTIES - FII",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "RBRR11",
+            "Name": "FDO INV IMOB - FII RBR RENDIMENTO HIGH GRADE",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "RBRY11",
+            "Name": "Fundo Investimeto Imobiliario Rbr Private Credito Imobiliario",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "RBVA11",
+            "Name": "Fundo Invest Imobiliario Agencias Caixa - FII Fund",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "RBVO11",
+            "Name": "RIO BRAVO CR\u00c9DITO IMOBILI\u00c1RIO II FDO INV IMOB -FII",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "RCFA11",
+            "Name": "RCFA11",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "RCSL3",
+            "Name": "Recrusul S\/A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "RCSL4",
+            "Name": "Recrusul S\/A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "RDES11",
+            "Name": "RENDA DE ESCRIT\u00d3RIOS FDO INV IMOB - FII",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "RDNI3",
+            "Name": "RNI Negocios Imobiliarios S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "RDPD11",
+            "Name": "BB RENDA DE PAPEIS IMOB II FDO INV IMOB - FII",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "RECT11",
+            "Name": "Fundo De Investimento Imobiliario - FII UBS Office",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "REDE3",
+            "Name": "Rede Energia Participacoes S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "REIT11",
+            "Name": "SOCOPA FDO INV IMOB - FII",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "RENT3",
+            "Name": "Localiza Rent a Car S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "RLOG3",
+            "Name": "Cosan Logistica S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "RNDP11",
+            "Name": "BB RENDA DE PAP\u00c9IS IMOBILI\u00c1RIOS FDO INV IMOB - FII",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "RNEW11",
+            "Name": "Renova Energia S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "RNEW3",
+            "Name": "Renova Energia S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "RNEW4",
+            "Name": "Renova Energia S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "RNGO11",
+            "Name": "FDO INV IMOB RIO NEGRO - FII",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "ROMI3",
+            "Name": "Industrias Romi S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "RPAD3",
+            "Name": "Alfa Holdings S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "RPAD6",
+            "Name": "Alfa Holdings S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "RPMG3",
+            "Name": "Refinaria de Petroleos de Manguinhos S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "RSID3",
+            "Name": "Rossi Residencial S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "RSUL4",
+            "Name": "Metalurgica Riosulense S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SAAG11",
+            "Name": "SANTANDER AG\u00caNCIAS FDO INV IMOB - FII",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "SADI11",
+            "Name": "SADI11",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SAIC11B",
+            "Name": "SAIC11B",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SANB11",
+            "Name": "Banco Santander (Brasil) S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SANB3",
+            "Name": "Banco Santander (Brasil) S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SANB4",
+            "Name": "Banco Santander (Brasil) S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SAPR11",
+            "Name": "Companhia de Saneamento do Parana - SANEPAR",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SAPR3",
+            "Name": "Companhia de Saneamento do Parana - SANEPAR",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SAPR4",
+            "Name": "Companhia de Saneamento do Parana - SANEPAR",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SBSP3",
+            "Name": "Companhia de Saneamento Basico do Estado de Sao Paulo - SABESP",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SBUB34",
+            "Name": "Starbucks Corporation",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SCAR3",
+            "Name": "Sao Carlos Empreendimentos e Participacoes S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SCPF11",
+            "Name": "FDO INV IMOB SCP",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "SDIL11",
+            "Name": "FDO INV IMOB SDI RIO BRAVO RENDA LOGISTICA - FII",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "SEER3",
+            "Name": "Ser Educacional S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SGPS3",
+            "Name": "Springs Global Participacoes S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SHOW3",
+            "Name": "T4F Entretenimento S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SHPH11",
+            "Name": "FDO INV Imob Shopping Patio Higienopolis",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SHUL4",
+            "Name": "Schulz S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SLCE3",
+            "Name": "SLC Agricola S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SLED3",
+            "Name": "Saraiva S.A. Livreiros Editores",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SLED4",
+            "Name": "Saraiva S.A. Livreiros Editores",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SMLS3",
+            "Name": "Smiles Fidelidade S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SMTO3",
+            "Name": "Sao Martinho S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SNSY5",
+            "Name": "Sansuy S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SOND5",
+            "Name": "Sondotecnica Engenharia de Solos S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SOND6",
+            "Name": "Sondotecnica Engenharia de Solos S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SPRI3",
+            "Name": "Springer S\/A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SPRI5",
+            "Name": "Springer S\/A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SPRI6",
+            "Name": "Springer S\/A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SPTW11",
+            "Name": "SP DOWNTOWN FDO INV IMOB - FII",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "SQIA3",
+            "Name": "Sinqia S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SSFO34",
+            "Name": "SSFO34",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "STBP3",
+            "Name": "Santos Brasil Participacoes S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SULA11",
+            "Name": "Sul America S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SULA3",
+            "Name": "Sul America S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SULA4",
+            "Name": "Sul America S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SUZB3",
+            "Name": "Suzano S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "TAEE11",
+            "Name": "Transmissora Alianca de Energia Eletrica S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "TAEE3",
+            "Name": "Transmissora Alianca de Energia Eletrica S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "TAEE4",
+            "Name": "Transmissora Alianca de Energia Eletrica S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "TBOF11",
+            "Name": "FDO INV IMOB - FII TB OFFICE",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "TCNO3",
+            "Name": "Tecnosolo Engenharia S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "TCNO4",
+            "Name": "Tecnosolo Engenharia S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "TCSA3",
+            "Name": "Tecnisa S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "TECN3",
+            "Name": "Technos S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "TEKA4",
+            "Name": "Teka Tecelagem Kuehnrich S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "TELB3",
+            "Name": "Telecomunicacoes Brasileiras S.A. - TELEBRAS",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "TELB4",
+            "Name": "Telecomunicacoes Brasileiras S.A. - TELEBRAS",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "TEND3",
+            "Name": "Construtora Tenda S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "TESA3",
+            "Name": "Terra Santa Agro S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "TEXA34",
+            "Name": "TEXA34",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "TGAR11",
+            "Name": "FDO INV IMOB TG ATIVO REAL",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "TGMA3",
+            "Name": "Tegma Gestao Logistica S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "THRA11",
+            "Name": "FDO INV IMOB - FII CYRELA THERA CORPORATE",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "TIET11",
+            "Name": "AES Tiete Energia S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "TIET3",
+            "Name": "AES Tiete Energia S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "TIET4",
+            "Name": "AES Tiete Energia S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "TIMP3",
+            "Name": "TIM Participacoes S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "TKNO4",
+            "Name": "Tekno S.A. Industria e Comercio",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "TOTS3",
+            "Name": "TOTVS S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "TPIS3",
+            "Name": "Triunfo Participacoes e Investimentos S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "TRIS3",
+            "Name": "Trisul S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "TRNT11",
+            "Name": "FDO INV IMOB - FII TORRE NORTE",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "TRPL3",
+            "Name": "CTEEP - Companhia de Transmissao de Energia Eletrica Paulista S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "TRPL4",
+            "Name": "CTEEP - Companhia de Transmissao de Energia Eletrica Paulista S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "TRXL11",
+            "Name": "TRX REALTY LOG\u00cdSTICA RENDA I FDO INV IMOB - FII",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "TSLA34",
+            "Name": "TSLA34",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "TUPY3",
+            "Name": "Tupy S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "TWTR34",
+            "Name": "Twitter, Inc",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "TXRX4",
+            "Name": "Textil Renauxview S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "UBSR11",
+            "Name": "FDO INV IMOB - FII UBS (BR) RECEB IMOB",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "UCAS3",
+            "Name": "Unicasa Industria de Moveis S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "UGPA3",
+            "Name": "Ultrapar Participacoes S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "UNIP3",
+            "Name": "Unipar Carbocloro S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "UNIP6",
+            "Name": "Unipar Carbocloro S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "USIM3",
+            "Name": "Usinas Siderurgicas de Minas Gerais S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "USIM5",
+            "Name": "Usinas Siderurgicas de Minas Gerais S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "USIM6",
+            "Name": "Usinas Siderurgicas de Minas Gerais S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "VALE3",
+            "Name": "Vale S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "VERZ34",
+            "Name": "Verizon Communications Inc",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "VGIR11",
+            "Name": "VALORA RE III FDO INV IMOB - FII",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "VILG11",
+            "Name": "VINCI LOG\u00cdSTICA FDO INV IMOB - FII",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "VISA34",
+            "Name": "Visa Inc",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "VISC11",
+            "Name": "Vinci Shopping Centers Fundo Investimento Imobiliario - Fii",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "VIVA3",
+            "Name": "Vivara Participacoes SA",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "VIVR3",
+            "Name": "Viver Incorporadora e Construtora S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "VIVT3",
+            "Name": "Telefonica Brasil S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "VIVT4",
+            "Name": "Telefonica Brasil S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "VLID3",
+            "Name": "Valid Solucoes S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "VLOL11",
+            "Name": "FDO INV IMOB - FII VILA OL\u00cdMPIA CORPORATE",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "VOTS11",
+            "Name": "VOTORANTIM SECURITIES MASTER FDO INV IMOB - FII",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "VRTA11",
+            "Name": "FATOR VERITA FDO INV IMOB - FII",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "VSHO11",
+            "Name": "FII Votorantim Securities",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "VTLT11",
+            "Name": "FDO INV IMOB VOTORANTIM LOGISTICA",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "VULC3",
+            "Name": "Vulcabras Azaleia S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "VVAR3",
+            "Name": "Via Varejo S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "WALM34",
+            "Name": "Walmart Inc",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "WEGE3",
+            "Name": "WEG S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "WFCO34",
+            "Name": "Wells Fargo & Company",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "WHRL3",
+            "Name": "Whirlpool S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "WHRL4",
+            "Name": "Whirlpool S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "WIZS3",
+            "Name": "Wiz Solucoes e Corretagem de Seguros S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "WLMM3",
+            "Name": "WLM Participacoes e Comercio de Maquinas e Veiculos S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "WLMM4",
+            "Name": "WLM Participacoes e Comercio de Maquinas e Veiculos S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "WPLZ11",
+            "Name": "SHOPPING WEST PLAZA FDO INV IMOB",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "WSON33",
+            "Name": "Wilson Sons Ltd",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "XPCM11",
+            "Name": "XP Corporate Macae Fundo de Investimento Imobiliario - FII",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "XPHT11",
+            "Name": "XP Hoteis Fundo De Investimento Imobiliario FII",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "XPHT12",
+            "Name": "XPHT12",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "XPIN11",
+            "Name": "XP INDUSTRIAL FDO INVESTIMENTO IMOB - FII",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "XPLG11",
+            "Name": "XP LOG FDO INV IMOB - FII",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "XPML11",
+            "Name": "XP MALLS FDO INV IMOB FII",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "FUND"
+        },
+        {
+            "Code": "XTED11",
+            "Name": "XTED - TRX Edificios Corporativos Fundo Invest Imobiliario FII Fund",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "YDUQ3",
+            "Name": "Estacio Participacoes S.A",
+            "Country": "Brazil",
+            "Exchange": "SA",
+            "Currency": "BRL",
+            "Type": "Common Stock"
+        }
+    ]
+}

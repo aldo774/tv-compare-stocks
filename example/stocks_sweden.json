@@ -1,0 +1,3956 @@
+{
+    "data": [
+        {
+            "Code": "2CUREX",
+            "Name": "2cureX",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "3KR",
+            "Name": "Tre Kronor Property Investment",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "A1M",
+            "Name": "A1M Pharma",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "AAC",
+            "Name": "\u00c5AC Microtec",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "AALLON",
+            "Name": "Aallon Group Oyj",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "AAP-B",
+            "Name": "Arc Aroma Pure",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ABFAST",
+            "Name": "Fastator",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ABSO",
+            "Name": "Absolent Group",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ABTo",
+            "Name": "Aqua Bio Technology",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ACARIX",
+            "Name": "Acarix",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ACCON",
+            "Name": "Acconeer",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ACM",
+            "Name": "A City Media",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ADDERA",
+            "Name": "AdderaCare",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ADDV-A",
+            "Name": "ADDvise Group A",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ADDV-B",
+            "Name": "ADDvise Group B",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ADMCM",
+            "Name": "Admicom Oyj",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ADVE",
+            "Name": "Advenica AB",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "AERO",
+            "Name": "Svenska Aerogel Holding",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "AFGo",
+            "Name": "AF Gruppen",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "AGES-B",
+            "Name": "Ages Industri B",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "AGILC",
+            "Name": "Agillic",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "AHOLA",
+            "Name": "Oyj Ahola Transport Abp A",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "AINO",
+            "Name": "Aino Health",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "AJA-B",
+            "Name": "Byggm\u00e4stare A J Ahlstr\u00f6m H",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "AKAo",
+            "Name": "Akastor",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "AKEL-PREF",
+            "Name": "Akelius Residential Pref",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "AKERBPo",
+            "Name": "Aker BP",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "AKERo",
+            "Name": "Aker",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "AKSOo",
+            "Name": "Aker Solutions",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "AKVAo",
+            "Name": "AKVA Group",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ALCA",
+            "Name": "Alcadon Group",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ALELIO",
+            "Name": "Alelion Energy Systems",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ALLG-B",
+            "Name": "ALLGON B",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ALM",
+            "Name": "ALM Equity",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ALM-PREF",
+            "Name": "ALM Equity Pref",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ALNGo",
+            "Name": "Awilco LNG",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "AMAST",
+            "Name": "Amasten Fastighets",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "AMAST-PREF",
+            "Name": "Amasten Fastighets Pref",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "AMSCo",
+            "Name": "American Shipping Company",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ANNX",
+            "Name": "Annexin Pharmaceuticals",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "APCLo",
+            "Name": "African Petroleum Corporation",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "APPo",
+            "Name": "Apptix",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "AQUAo",
+            "Name": "Aqualis",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ARCHERo",
+            "Name": "Archer",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ARCOMA",
+            "Name": "Arcoma",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ARCT",
+            "Name": "Arctic Minerals",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ARCUSo",
+            "Name": "Arcus",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "AROC",
+            "Name": "AroCell",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ASCo",
+            "Name": "ABG Sundal Collier Holding",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ASETEKo",
+            "Name": "Asetek",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ASPIRE",
+            "Name": "Aspire Global",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ATEAo",
+            "Name": "Atea",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ATLA-NOKo",
+            "Name": "Atlantic Petroleum",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ATVEXA-B",
+            "Name": "Atvexa B",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "AUR",
+            "Name": "Auriant Mining",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "AUSSo",
+            "Name": "Austevoll Seafood",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "AVANCEo",
+            "Name": "Avance Gas Holding Ltd.",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "AVEN",
+            "Name": "Avensia",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "AVIDLY",
+            "Name": "AVIDLY OYJ",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "AVMo",
+            "Name": "Avocet Mining",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "AVT-B",
+            "Name": "Avtech Sweden B",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "AWDRo",
+            "Name": "Awilco Drilling",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "AWRD",
+            "Name": "Awardit",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "AXAo",
+            "Name": "Axactor",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "AXIC-A",
+            "Name": "aXichem",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "B2Ho",
+            "Name": "B2Holding",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BAKKAo",
+            "Name": "Bakkafrost",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BAYN",
+            "Name": "Bayn Europe",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BDRILLo",
+            "Name": "Borr Drilling",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BERGENo",
+            "Name": "Bergen Group",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BIM",
+            "Name": "BIMobject",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BIOS",
+            "Name": "Bioservo Technologies",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BIOTECo",
+            "Name": "Biotec Pharmacon",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BIOVIC-B",
+            "Name": "Biovica International B",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BIOWKS",
+            "Name": "Bio-Works Technologies",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BONAS",
+            "Name": "Bon\u00e4sudden Holding",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BONEH",
+            "Name": "BBS-Bioactive Bone Substitutes",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BONES",
+            "Name": "BBS-Bioactive Bone Substitutes",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BONo",
+            "Name": "Bonheur",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BOTX",
+            "Name": "Botnia Exploration Holding",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BOUVETo",
+            "Name": "Bouvet",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BRE2",
+            "Name": "Bredband2 i Skandinavien",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BRGo",
+            "Name": "Borregaard",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BRIG",
+            "Name": "Brighter",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BRIG-TO3",
+            "Name": "Brighter AB TO 3",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BRIG-TO4",
+            "Name": "Brighter AB TO 4",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BRIN-B",
+            "Name": "Brinova Fastigheter B",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BUSER",
+            "Name": "Bambuser",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BWLPGo",
+            "Name": "BW LPG Limited",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BWOo",
+            "Name": "BW Offshore",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "BYGGP",
+            "Name": "ByggPartner",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CANTA",
+            "Name": "Cantargia",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CAPAC",
+            "Name": "Capacent Holding",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CBM",
+            "Name": "Cleantech Building Materials",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CE",
+            "Name": "Cortus Energy",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CELLNK-B",
+            "Name": "CELLINK B",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CFISH",
+            "Name": "Crunchfish",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CHRO",
+            "Name": "ChromoGenics",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CHRO-TO2",
+            "Name": "ChromoGenics AB TO2",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CI-B",
+            "Name": "Cell Impact B",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CIBUS",
+            "Name": "Cibus Nordic Real Estate",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CIMCO",
+            "Name": "Cimco Marine",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CLAV",
+            "Name": "Clavister Holding",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CLBIO",
+            "Name": "Corline Biomedical",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CLEM",
+            "Name": "Clemondo Group",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CLEMO",
+            "Name": "Clean Motion",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CLIME-B",
+            "Name": "Climeon B",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CLS-B",
+            "Name": "Clinical Laserthermia Syst. B",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CMOTEC-B",
+            "Name": "Scandinavian ChemoTech B",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "COGS",
+            "Name": "Cognosec",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CONF",
+            "Name": "Confidence International",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CONFRZ",
+            "Name": "Conferize",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "COPP-B",
+            "Name": "Copperstone Resources B",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CRAYONo",
+            "Name": "Crayon Group Holding",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "CYXO",
+            "Name": "Cyxone",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "DATo",
+            "Name": "Data Respons",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "DDM",
+            "Name": "DDM Holding",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "DEFL-B",
+            "Name": "Deflamo B",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "DELARK",
+            "Name": "Delarka Holding",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "DETEC",
+            "Name": "Detection Technology Oyj",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "DEVP-B",
+            "Name": "DevPort B",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "DIAH",
+            "Name": "Diadrom Holding",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "DIGN",
+            "Name": "Dignitana",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "DIST",
+            "Name": "DistIT",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "DMYD-B",
+            "Name": "Diamyd Medical B",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "DNBo",
+            "Name": "DNB",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "DNOo",
+            "Name": "DNO",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "DOFo",
+            "Name": "DOF",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "DOME",
+            "Name": "Dome Energy",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "DOXA",
+            "Name": "Doxa",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "DRIL",
+            "Name": "Drillcon",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "EAMo",
+            "Name": "EAM Solar",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "EFECTE",
+            "Name": "Efecte Oyj",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "EFFP",
+            "Name": "Effnetplattformen",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "EGNETY",
+            "Name": "EgnsINVEST Ejd., Tyskland",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "EIOFo",
+            "Name": "Eidesvik Offshore",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ELEo",
+            "Name": "Element",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ELKo",
+            "Name": "Elkem",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ELN",
+            "Name": "Ellen",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ELVHB",
+            "Name": "Elite Varainhoito Oyj",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "EMASo",
+            "Name": "EMAS Offshore",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "EMGSo",
+            "Name": "Electromagnetic Geoservices",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ENALYZ",
+            "Name": "Enalyzer",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ENERS",
+            "Name": "Enersize",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ENTRAo",
+            "Name": "Entra",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ENZY",
+            "Name": "Enzymatica",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "EOS",
+            "Name": "EOS Russia",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "EPRo",
+            "Name": "Europris",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ERMA",
+            "Name": "Enorama Pharma",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ERRIA",
+            "Name": "Erria",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ESENSE",
+            "Name": "Enersense International Oyj",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ESOFT",
+            "Name": "esoft systems",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "EVRYo",
+            "Name": "EVRY",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "EXPRS2",
+            "Name": "ExpreS2ion Biotech Holding",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "FASTPC",
+            "Name": "FastPassCorp",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "FELLOW",
+            "Name": "Fellow Finance Plc",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "FIL",
+            "Name": "Filo Mining Corp",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "FIRE",
+            "Name": "Firefly",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "FJORDo",
+            "Name": "Fjord1",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "FLEXQ",
+            "Name": "FlexQube",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "FLNGo",
+            "Name": "FLEX LNG",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "FOEo",
+            "Name": "Fred. Olsen Energy",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "FONDIA",
+            "Name": "Fondia Oyj",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "FOOT-PREF",
+            "Name": "Footway Group Pref",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "FRAM-B",
+            "Name": "Fram Skandinavien B",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "FRISQ",
+            "Name": "FRISQ Holding",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "FROo",
+            "Name": "Frontline",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "FUNCOMo",
+            "Name": "Funcom",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "GAPW-B",
+            "Name": "Gapwaves B",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "GATE",
+            "Name": "Gate Ventures",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "GCOR",
+            "Name": "Gaming Corps",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "GENI",
+            "Name": "Generic Sweden",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "GENO",
+            "Name": "Genovis",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "GHUS-B",
+            "Name": "G\u00f6tenehus Group B",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "GIGo",
+            "Name": "Gaming Innovation Group",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "GJFo",
+            "Name": "Gjensidige Forsikring",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "GLOBAL",
+            "Name": "Global Gaming 555",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "GODo",
+            "Name": "Goodtech",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "GOFORE",
+            "Name": "Gofore Oyj",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "GOGLo",
+            "Name": "Golden Ocean Group",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "GOMX",
+            "Name": "GomSpace Group",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "GPG-PREF",
+            "Name": "Genova Property Group Pref",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "GPX",
+            "Name": "Gasporox",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "GREAT",
+            "Name": "Greater Than",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "GREENM",
+            "Name": "GreenMobility",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "GSFo",
+            "Name": "Grieg Seafood",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "GWS",
+            "Name": "GWS Production",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "HAMP",
+            "Name": "Hampi\u00f0jan",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "HANZA",
+            "Name": "Hanza Holding",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "HAVIo",
+            "Name": "Havila Shipping",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "HBCo",
+            "Name": "Hofseth BioCare",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "HDW-B",
+            "Name": "H&D Wireless Sweden Holding B",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "HEEROS",
+            "Name": "Heeros Oyj",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "HEGR",
+            "Name": "Hedera Group",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "HEIM-PREF",
+            "Name": "Heimstaden Pref",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "HELIO",
+            "Name": "Heliospectra",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "HEMC",
+            "Name": "Hemcheck Sweden",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "HEXo",
+            "Name": "Hexagon Composites",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "HIDDNo",
+            "Name": "Hiddn Solutions",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "HIFA-B",
+            "Name": "Hifab Group B",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "HLNGo",
+            "Name": "H\u00f6egh LNG Holdings",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "HOVD",
+            "Name": "H\u00f6vding Sverige",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "HOYLU",
+            "Name": "Hoylu",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "HRC",
+            "Name": "HRC World Plc",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "HRTIS",
+            "Name": "Herantis Pharma Oyj",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "HUGOo",
+            "Name": "Hugo Games",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "HUNTo",
+            "Name": "Hunter Group",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "HYARDo",
+            "Name": "Havyard Group",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "IBT-B",
+            "Name": "Infant Bacterial TherapeuticsB",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ICESEA",
+            "Name": "Iceland Seafood International",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "IDEXo",
+            "Name": "IDEX",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "IMMNOV",
+            "Name": "Immunovia",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "IMPC",
+            "Name": "Impact Coatings",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "INCo",
+            "Name": "Incus Investor",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "INDEN-B",
+            "Name": "Indentive B",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "INDEX",
+            "Name": "InDex Pharmaceuticals Holding",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "INFRNTo",
+            "Name": "Infront",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "INISS-B",
+            "Name": "Inission B",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "INSRo",
+            "Name": "Insr Insurance Group",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "INTEG-B",
+            "Name": "Integrum B",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "INTU",
+            "Name": "Intuitive Aerial",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "IOXo",
+            "Name": "InterOil Exploration and Prod.",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "IPCO",
+            "Name": "International Petroleum Corp.",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "IRIS",
+            "Name": "Irisity",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "IRLAB-A",
+            "Name": "IRLAB Therapeutics A",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "IRRAS",
+            "Name": "IRRAS",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ISOFOL",
+            "Name": "Isofol Medical",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ISR",
+            "Name": "ISR Holding",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ITAL-SDB",
+            "Name": "Italeaf SDB",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "IVACC",
+            "Name": "Intervacc",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "IVISYS",
+            "Name": "IVISYS",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "JAYS",
+            "Name": "Jays Group",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "JINo",
+            "Name": "Jinhui Shipping and Transport.",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "JLT",
+            "Name": "JLT Mobile Computers",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "JOBNDX",
+            "Name": "Jobindex",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "K2A-PREF",
+            "Name": "K2A Knaust & Andersson Pref",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "KAKEL",
+            "Name": "Kakel Max",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "KAMBI",
+            "Name": "Kambi Group Plc",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "KAN",
+            "Name": "Kancera",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "KAPIAB",
+            "Name": "Kalleb\u00e4ck Property Invest",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "KARE",
+            "Name": "Karessa Pharma Holding",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "KENH",
+            "Name": "Kentima Holding",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "KIDo",
+            "Name": "Kid",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "KITo",
+            "Name": "Kitron",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "KLAPP-B",
+            "Name": "Klappir Gr\u00e6nar Lausnir B",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "KLAR",
+            "Name": "Klaria Pharma Holding",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "KOAo",
+            "Name": "Kongsberg Automotive",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "KOGo",
+            "Name": "Kongsberg Gruppen",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "KOMPo",
+            "Name": "Komplett Bank",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "KONT",
+            "Name": "Kontigo Care",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "KOPY",
+            "Name": "Kopy Goldfields",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "KVAERo",
+            "Name": "Kv\u00e6rner",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "KVIKA",
+            "Name": "Kvika banki",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "LAUR",
+            "Name": "Lauritz.com Group",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "LEADD",
+            "Name": "LeadDesk Oyj",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "LEMSE",
+            "Name": "Leading Edge Materials Corp.",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "LEX",
+            "Name": "The Lexington Company",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "LIDDS",
+            "Name": "LIDDS",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "LINKAB",
+            "Name": "Link Prop Investment",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "LIVI",
+            "Name": "Liv ihop",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "LLSW-B",
+            "Name": "LightLab B",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "LOG",
+            "Name": "Logistea",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "LOUD",
+            "Name": "Loudspring Oyj",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "LOUDS",
+            "Name": "Loudspring Oyj",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "LSGo",
+            "Name": "Ler\u00f8y Seafood Group",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "LYKO-A",
+            "Name": "Lyko Group A",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "MACK-B",
+            "Name": "Mackmyra Svensk Whisky B",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "MAG",
+            "Name": "Magnolia Bostad",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "MAGI",
+            "Name": "MAG Interactive",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "MAHA-A",
+            "Name": "Maha Energy",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "MAHA-TO-2-A",
+            "Name": "Maha Energy AB TO 2 A",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "MANG",
+            "Name": "Mangold",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "MANTEX",
+            "Name": "Mantex",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "MATRA",
+            "Name": "Matra Petroleum",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "MAV",
+            "Name": "Mavshack",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "MAXF",
+            "Name": "MaxFastigheter i Sverige",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "MAXK",
+            "Name": "Maxkompetens Sverige",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ME",
+            "Name": "Modern Ekonomi Sverige Holding",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "MEDR-B",
+            "Name": "MediR\u00e4tt",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "MHGo",
+            "Name": "Marine Harvest",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "MINEST",
+            "Name": "Minesto",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "MISE",
+            "Name": "Misen Energy",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "MOMENT",
+            "Name": "Moment Group",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "MPCCo",
+            "Name": "MPC Container Ships",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "MPI",
+            "Name": "Medical Prognosis Institute",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "MSEISo",
+            "Name": "Magseis",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "MULTIo",
+            "Name": "Multiconsult",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "MYFC",
+            "Name": "myFC Holding",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "NANOo",
+            "Name": "Nordic Nanovector",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "NAPAo",
+            "Name": "Napatech",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "NASo",
+            "Name": "Norwegian Air Shuttle",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "NATTOo",
+            "Name": "NattoPharma",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "NAVAo",
+            "Name": "Navamedic",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "NELo",
+            "Name": "NEL",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "NEPA",
+            "Name": "Nepa",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "NEXAM",
+            "Name": "Nexam Chemical Holding",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "NEXTo",
+            "Name": "NEXT Biometrics Group",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "NFAB",
+            "Name": "Nordic Flanges Group",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "NHYo",
+            "Name": "Norsk Hydro",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "NICO",
+            "Name": "Nicoccino Holding",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "NIL-B",
+            "Name": "Nil\u00f6rngruppen B",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "NILS",
+            "Name": "Nilsson Special Vehicles",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "NITRO",
+            "Name": "Nitro Games",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "NIXU",
+            "Name": "Nixu Oyj",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "NJOB",
+            "Name": "NetJobs Group",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "NLAB",
+            "Name": "Nordic Leisure",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "NNH",
+            "Name": "New Nordic Healthbrands",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "NODLo",
+            "Name": "Northern Drilling",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "NODo",
+            "Name": "Nordic Semiconductor",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "NOFIo",
+            "Name": "Norwegian Finans Holding",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "NOMo",
+            "Name": "Nordic Mining",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "NORNET-B",
+            "Name": "north net connect B",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "NORo",
+            "Name": "Norwegian Energy Company",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "NORTHo",
+            "Name": "North Energy",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "NPINV",
+            "Name": "NPinvestor.com",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "NPROo",
+            "Name": "Norwegian Property",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "NRCo",
+            "Name": "NRC Group",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "NRSo",
+            "Name": "Norway Royal Salmon",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "NXTGMS",
+            "Name": "Next Games Oyj",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "NXTMH",
+            "Name": "Nexstim Oyj",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "NXTMS",
+            "Name": "Nexstim Oyj",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "OBAB",
+            "Name": "Online Brands Nordic",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "OBOYA-B",
+            "Name": "Oboya Horticulture Indust. B",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "OCYo",
+            "Name": "Ocean Yield",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ODFBo",
+            "Name": "Odfjell B",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ODFo",
+            "Name": "Odfjell A",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ODLo",
+            "Name": "Odfjell Drilling Ltd",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "OLTo",
+            "Name": "Olav Thon Eiendomsselskap",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ONG",
+            "Name": "Oniva Online Group Europe",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ORGC",
+            "Name": "OrganoClick",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ORKo",
+            "Name": "Orkla",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "OTELLOo",
+            "Name": "Otello Corporation",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "OTSo",
+            "Name": "Oceanteam",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "PALS-B",
+            "Name": "Pallas Group",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "PAPI",
+            "Name": "Papilly",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "PAX",
+            "Name": "Paxman",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "PCAT",
+            "Name": "Photocat",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "PCELL",
+            "Name": "PowerCell Sweden",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "PCIBo",
+            "Name": "PCI Biotech Holding",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "PCOM-B",
+            "Name": "Precomp Solutions B",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "PDRo",
+            "Name": "Petrolia",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "PDX",
+            "Name": "Paradox Interactive",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "PEGRO-PREF",
+            "Name": "Pegroco Invest",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "PENo",
+            "Name": "Panoro Energy",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "PGSo",
+            "Name": "Petroleum Geo-Services",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "PHLYo",
+            "Name": "Philly Shipyard",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "PHOo",
+            "Name": "Photocure",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "PIEZO",
+            "Name": "PiezoMotor Uppsala",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "PIIPPO",
+            "Name": "Piippo Oyj",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "PLCSo",
+            "Name": "Polarcus",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "PLED",
+            "Name": "PledPharma",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "POLo",
+            "Name": "Polaris Media",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "POLY",
+            "Name": "Polyplank",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "POLYG",
+            "Name": "Polygiene",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "PPG-PREFo",
+            "Name": "Pioneer Property Group Pref",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "PRCO-B",
+            "Name": "Precio Fishbone B",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "PRIME",
+            "Name": "Prime Living",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "PRIME-PREF-B",
+            "Name": "Prime Living Pref",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "PRIVA",
+            "Name": "Privanet Group Oyj",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "PROMO",
+            "Name": "Promore Pharma",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "PROTCTo",
+            "Name": "Protector Forsikring",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "PRSo",
+            "Name": "Prosafe",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "QECo",
+            "Name": "Questerre Energy",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "QFRo",
+            "Name": "Q-Free",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "QUART",
+            "Name": "Quartiers Properties",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "QUART-PREF",
+            "Name": "Quartiers Properties Pref",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "RAKPo",
+            "Name": "RAK Petroleum",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "REACHo",
+            "Name": "Reach Subsea",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "REALFI",
+            "Name": "Realfiction Holding",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "RECo",
+            "Name": "REC Silicon",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "REMEDY",
+            "Name": "Remedy Entertainment Oyj",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "RISHo",
+            "Name": "GC Rieber Shipping",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "RLS",
+            "Name": "RLS Global",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "RTC",
+            "Name": "Rethinking Care Sweden",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "RUSH",
+            "Name": "Rush Factory Plc",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SAGAo",
+            "Name": "Saga Tankers",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SALMo",
+            "Name": "SalMar",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SALMONo",
+            "Name": "Salmones Camanchaca",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SALT-B",
+            "Name": "SaltX Technology Holding B",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SAPIAB",
+            "Name": "Salt\u00e4ngen Property Invest",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SAS-NOKo",
+            "Name": "SAS",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SAVOH",
+            "Name": "Savo-Solar Oyj",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SAVOS",
+            "Name": "Savo-Solar Oyj",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SAXG",
+            "Name": "Saxlund Group",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SBANKo",
+            "Name": "Sbanken",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SBB-B",
+            "Name": "Samh\u00e4llsbyggnadsbolag i Norden",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SBB-PREF",
+            "Name": "Samh\u00e4llsbyggnads i Norden Pref",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SBOK",
+            "Name": "ScandBook Holding",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SBOo",
+            "Name": "Selvaag Bolig",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SBULKo",
+            "Name": "Songa Bulk",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SBXo",
+            "Name": "SeaBird Exploration",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SCHAo",
+            "Name": "Schibsted A",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SCHBo",
+            "Name": "Schibsted B",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SCIB",
+            "Name": "Scibase Holding",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SCOUT",
+            "Name": "Scout Gaming Group",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SDIP-B",
+            "Name": "Sdiptech B",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SDIP-PREF",
+            "Name": "Sdiptech Pref",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SDOS",
+            "Name": "ScandiDos",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SDS",
+            "Name": "Seamless Distribution Systems",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SDSDo",
+            "Name": "S.D. Standard Drilling",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SECARE",
+            "Name": "Swedencare",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SECI",
+            "Name": "SECITS Holding",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SEDANA",
+            "Name": "Sedana Medical",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SENZA",
+            "Name": "SenzaGen",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SERT",
+            "Name": "Serstech",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SES",
+            "Name": "Scandinavian Enviro Systems",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SEVANo",
+            "Name": "Sevan Marine",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SEYE",
+            "Name": "Smart Eye",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SEZI",
+            "Name": "Senzime",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SF",
+            "Name": "Stillfront Group",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SFS-B",
+            "Name": "Sl\u00e1turf\u00e9lag Su\u00f0urlands",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SIMRIS-B",
+            "Name": "Simris Alg B",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SIOFFo",
+            "Name": "Siem Offshore",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SIVE",
+            "Name": "Sivers IMA Holding",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SJR-B",
+            "Name": "SJR in Scandinavia B",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SKMO",
+            "Name": "Sk\u00e5ne-m\u00f6llan",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SNIo",
+            "Name": "Stolt-Nielsen",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SNM",
+            "Name": "ShaMaran Petroleum Corp",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SOFFo",
+            "Name": "Solstad Farstad",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SOLNA",
+            "Name": "Solnaberg Property",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SOLONo",
+            "Name": "Solon Eiendom",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SOLT",
+            "Name": "SolTech Energy Sweden",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SONE",
+            "Name": "Sonetel",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SPIFFX",
+            "Name": "SpiffX",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SPRINT",
+            "Name": "Sprint Bioscience",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SRBANKo",
+            "Name": "SpareBank 1 SR-Bank",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SSCo",
+            "Name": "The Scottish Salmon Company",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SSGo",
+            "Name": "Self Storage Group",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SSOo",
+            "Name": "Scatec Solar",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "STBo",
+            "Name": "Storebrand",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "STEF-B",
+            "Name": "Stend\u00f6rren Fastigheter",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "STIL",
+            "Name": "Stille",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "STLo",
+            "Name": "Statoil",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "STORMo",
+            "Name": "Storm Real Estate",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "STRONGo",
+            "Name": "StrongPoint",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "STW",
+            "Name": "SeaTwirl",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SUBCo",
+            "Name": "Subsea 7 S.A.",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "SUS",
+            "Name": "Surgical Science Sweden",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "TAGM-B",
+            "Name": "TagMaster B",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "TALK",
+            "Name": "TalkPool",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "TANGI",
+            "Name": "Tangiamo Touch Technology",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "TASTE",
+            "Name": "myTaste",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "TCC",
+            "Name": "TC Connect",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "TCT",
+            "Name": "TC TECH Sweden",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "TEAMo",
+            "Name": "Team Tankers International",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "TECHo",
+            "Name": "Techstep",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "TELo",
+            "Name": "Telenor",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "TEONE",
+            "Name": "TargetEveryOne",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "TERRNT-B",
+            "Name": "TerraNet Holding B",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "TGSo",
+            "Name": "TGS-NOPEC Geophysical Company",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "THINo",
+            "Name": "Thin Film Electronics",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "THQN-B",
+            "Name": "THQ Nordic B",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "TITAN",
+            "Name": "Titanium Oyj",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "TOMo",
+            "Name": "Tomra Systems",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "TORSAB",
+            "Name": "Torslanda Property Investment",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "TRANS",
+            "Name": "Transtema Group",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "TREo",
+            "Name": "Treasure",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "TRIAN-B",
+            "Name": "Trianon B",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "TRVXo",
+            "Name": "Targovax",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "TSEC",
+            "Name": "Tempest Security",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "TTSo",
+            "Name": "TTS Group",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "UNIAV",
+            "Name": "United Bankers Oyj",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "UNIBAP",
+            "Name": "Unibap",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "URBIT",
+            "Name": "Urb-it",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "UTG",
+            "Name": "Unlimited Travel Group",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "VEIo",
+            "Name": "Veidekke",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "VEMF-SDB",
+            "Name": "Vostok Emerging Finance",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "VERI",
+            "Name": "Verisec",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "VERK",
+            "Name": "Verkkokauppa.com Oyj",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "VIAFIN",
+            "Name": "Viafin Service Oyj",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "VICO",
+            "Name": "Vicore Pharma Holding",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "VINCIT",
+            "Name": "Vincit Group Oyj",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "VISTINo",
+            "Name": "Vistin Pharma",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "VMP",
+            "Name": "VMP Oyj",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "WAYS",
+            "Name": "Waystream Holding",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "WESC",
+            "Name": "WeSC",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "WIFOG",
+            "Name": "Wifog Holding",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "WILSo",
+            "Name": "Wilson",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "WINT",
+            "Name": "West International",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "WIRTEK",
+            "Name": "WIRTEK",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "WSTEPo",
+            "Name": "Webstep",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "WWIBo",
+            "Name": "Wilh. Wilhelmsen Holding B",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "WWIo",
+            "Name": "Wilh. Wilhelmsen Holding A",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "WWLo",
+            "Name": "Wallenius Wilhelmsen Logistics",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "XBRANE",
+            "Name": "Xbrane Biopharma",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "XINT",
+            "Name": "Xintela",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "XMR",
+            "Name": "XMReality",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "XSPRAY",
+            "Name": "Xspray Pharma",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "XXLo",
+            "Name": "XXL",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "YARo",
+            "Name": "Yara International",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ZALo",
+            "Name": "Zalaris",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ZAPLOX",
+            "Name": "Zaplox",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ZUTEC",
+            "Name": "Zutec Holding",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        },
+        {
+            "Code": "ZZ-B",
+            "Name": "Zinzino B",
+            "Country": "Sweden",
+            "Exchange": "NFN",
+            "Currency": "SEK",
+            "Type": "Common Stock"
+        }
+    ]
+}

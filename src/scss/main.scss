@@ -72,7 +72,6 @@ footer{width: 100%; background-color: colorUsed($containerColor, 3%); height: 60
 }
 
 .autocomplete {
-  margin: 10px 0;
   position: relative;
   display: flex;
   float: left;
@@ -86,7 +85,14 @@ input[type=text] {
   width: 80%;
   flex: 1;
   padding: 10px;
-  font-size: 16px;
+  font-size: 16px; 
+}
+
+.gen_stock_collection{
+  max-width: 400px;
+  padding: 30px 0;
+  display: flex;
+  align-items: center;
 }
 
 .add_stock {
@@ -101,6 +107,35 @@ input[type=text] {
   font-weight: bolder;
   font-size: 23px;
   cursor: pointer;
+}
+
+.collection_stock{
+    width: 300px;
+}
+
+.controllers{
+  display: flex;
+  align-items: center;
+}
+
+.controllers > div{
+  flex: 1;
+}
+
+.close_selection{
+  text-decoration: none;
+  color: #000;
+  background: #fff;
+  border-radius: 50%;
+  float: right;
+  padding: 10px 14px;
+}
+
+h2{
+  flex: 1;
+  display: block;
+  color: #F4F4F4;
+  float: left;
 }
 
 .collection_stock > div{
@@ -139,17 +174,16 @@ input[type=text] {
 }
 
 #add_stock_collection{
-    display: block;
-    float: left;
-    background: #104e87;
-    color: #FFF;
-    font-size: 46px;
-    margin: 10px 0;
-    border-radius: 50%;
-    padding: 8px 22px;
-    text-decoration: none;
-    text-align: center;
-    font-family: sans-serif;
+  display: block;
+  flex: 1;
+  background: #104e87;
+  color: #FFF;
+  font-size: 35.5px;
+  max-width: 15%;
+  padding: 0px;
+  text-decoration: none;
+  text-align: center;
+  font-family: sans-serif;
 }
 
 .tradingview-widget-container{margin: 5px 0;}

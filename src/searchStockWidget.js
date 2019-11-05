@@ -3,7 +3,11 @@ import loadOverviewWidget from './overviewWidget';
 import autoComplete from './autocomplete';
 import loadJSON from './stocksRepo';
 
-export default function addSearchStockWidget(){
+export default function addSearchStockWidget(collection_name){
+
+    function removeCollection(){
+        this.closest('article').remove()
+    }
 
     function addStockItem(){
         let stock = this.previousElementSibling.value
@@ -30,6 +34,12 @@ export default function addSearchStockWidget(){
     let collection_stocks = document.querySelector('#collection_stocks')
     collection_stocks.insertAdjacentHTML('beforeend', `
 <article class="collection_stock">
+    <div class="controllers">
+        <h2>${collection_name}</h2>
+        <div>
+            <a href="#" class="close_selection">X</a>
+        </div>
+    </div>
     <div class="stock_search_form">
         <div class="autocomplete">
             <input class="search_stocks" type="text" name="search_stocks">
@@ -42,6 +52,7 @@ export default function addSearchStockWidget(){
 
     let collection_input = collection_stocks.lastElementChild.querySelector('.search_stocks')
     let collection_add = collection_stocks.lastElementChild.querySelector('.add_stock')
+    let collection_close = collection_stocks.lastElementChild.querySelector('.close_selection')
 
     loadJSON(function(response) {
         let arr_stocks = [];
@@ -51,4 +62,5 @@ export default function addSearchStockWidget(){
     })
 
     collection_add.addEventListener("click", addStockItem, false)
+    collection_close.addEventListener("click", removeCollection, false)
 }

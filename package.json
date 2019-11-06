@@ -11,6 +11,7 @@
     "build:all": "npm run build && npm run build:umd && npm run build:umd:min",
     "lint": "./node_modules/.bin/eslint src/*.js",
     "prepush": "npm run lint && npm test && npm run test:code-coverage",
+    "restart": "npm run build:all && npm run build-css && npm run start",
     "start": "./node_modules/.bin/webpack-dev-server --open",
     "test": "./node_modules/.bin/mocha tests/**/*.spec.js --require babel-register",
     "test:code-coverage": "nyc npm test",

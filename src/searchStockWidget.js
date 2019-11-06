@@ -35,9 +35,14 @@ export default function addSearchStockWidget(collection_name){
     collection_stocks.insertAdjacentHTML('beforeend', `
 <article class="collection_stock">
     <div class="controllers">
-        <h2>${collection_name}</h2>
         <div>
-            <a href="#" class="close_selection">X</a>
+            <p>${collection_name}</p>
+        </div>
+        <div>
+            <a href="#">Comparar</a>
+        </div>
+        <div>
+            <a href="#" class="close_selection">x</a>
         </div>
     </div>
     <div class="stock_search_form">

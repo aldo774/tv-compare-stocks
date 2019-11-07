@@ -9,6 +9,31 @@ export default function addSearchStockWidget(collection_name){
         this.closest('article').remove()
     }
 
+    function compareCollection(){
+        var block_ui = document.querySelector('#block_ui')
+        block_ui.style.zIndex = "999"
+
+        let close = block_ui.querySelector('span')
+        close.addEventListener("click", function(){
+            let block_ui = document.querySelector('#block_ui')
+            let financial_widgets = block_ui.querySelectorAll('.stock_financial')
+            financial_widgets.forEach((widget) => {
+                widget.remove()
+            })
+            block_ui.style.zIndex = "-999"
+        }, false)
+
+        let article = this.closest('article')
+        let stocks = article.querySelectorAll('.stock_item')
+        
+        stocks.forEach((stock) => {
+            let div = document.createElement('div')
+            div.classList.add('stock_financial')
+            block_ui.querySelector('.stock_financial_container').append(div)
+            loadFinancialWidget(div, stock.dataset)
+        })
+    }
+
     function addStockItem(){
         let stock = this.previousElementSibling.value
         if(stock){
@@ -39,7 +64,7 @@ export default function addSearchStockWidget(collection_name){
             <p>${collection_name}</p>
         </div>
         <div>
-            <a href="#">Comparar</a>
+            <a class="compare" href="#">Comparar</a>
         </div>
         <div>
             <a href="#" class="close_selection">x</a>
@@ -55,9 +80,10 @@ export default function addSearchStockWidget(collection_name){
 </article>
     `)
 
-    let collection_input = collection_stocks.lastElementChild.querySelector('.search_stocks')
     let collection_add = collection_stocks.lastElementChild.querySelector('.add_stock')
+    let collection_input = collection_stocks.lastElementChild.querySelector('.search_stocks')
     let collection_close = collection_stocks.lastElementChild.querySelector('.close_selection')
+    let collection_compare = collection_stocks.lastElementChild.querySelector('.compare')
 
     loadJSON(function(response) {
         let arr_stocks = [];
@@ -68,4 +94,5 @@ export default function addSearchStockWidget(collection_name){
 
     collection_add.addEventListener("click", addStockItem, false)
     collection_close.addEventListener("click", removeCollection, false)
+    collection_compare.addEventListener("click", compareCollection, false)
 }
